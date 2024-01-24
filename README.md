@@ -1,5 +1,4 @@
 ### Hi there 👋
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="?style=plastic&logo=로고&logoColor=3178C6"/></a>
 <!--
 **dongmin115/dongmin115** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
