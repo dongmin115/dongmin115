@@ -2,7 +2,7 @@
   
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=0:243949,100:517fa4&height=150&fontSize=40&fontAlignY=40)
 <!--
-**dongmin115/dongmin115** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
+**dongmin115/dongmin115** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
