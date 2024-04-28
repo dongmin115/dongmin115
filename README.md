@@ -58,6 +58,8 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dongmin115&show_icons=true&&bg_color=DEG,243949,517fa4&title_color=EAEAEA&text_color=EAEAEA&icon_color=00BBFF&hide_border=true)
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dongmin115&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:243949,100:517fa4&section=footer)
 
