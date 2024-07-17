@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dongmin115&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+![](./profile-3d-contrib/profile-night-view.svg)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:243949,100:517fa4&section=footer)
 
