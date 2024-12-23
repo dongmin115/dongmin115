@@ -52,10 +52,21 @@ Here are some ideas to get you started:
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 
 
+## Github Stats / Solved.ac Profile
 
-## Github Stats
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dongmin115&show_icons=true&&bg_color=DEG,243949,517fa4&title_color=EAEAEA&text_color=EAEAEA&icon_color=00BBFF&hide_border=true)
+<div align="center">
+  <img 
+       src="https://github-readme-stats.vercel.app/api?username=dongmin115&show_icons=true&&bg_color=DEG,243949,517fa4&title_color=EAEAEA&text_color=EAEAEA&icon_color=00BBFF&hide_border=true" 
+       alt="Anurag's GitHub stats"
+       style="display:inline-block;" />
+  
+  <a href="https://solved.ac/dongmin115">
+    <img 
+         src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dongmin115" 
+         alt="Solved.ac 프로필"
+         style="display:inline-block;" />
+  </a>
+</div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dongmin115&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
